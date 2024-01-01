@@ -7,20 +7,20 @@
   "main": "index.js",
   "preferGlobal": true,
   "repository": "",
-  "version": "1.0.0",
+  "version": "1.0.0-SNAPSHOT",
   "jdeploy": {
     "jdk": false,
-    "javaVersion": "17",
-    "jar": "target/fxgl-test2-1.0.0.jar",
+    "javaVersion": "21",
+    "jar": "target\\fxgl-test2-1.0.0-SNAPSHOT.jar",
     "javafx": true,
-    "title": "Fxgl Test2"
+    "title": "fxgl-test2"
   },
   "dependencies": {
     "njre": "^0.2.0",
     "shelljs": "^0.8.4"
   },
   "license": "ISC",
-  "name": "sample2",
+  "name": "fxgl-test2",
   "files": [
     "jdeploy-bundle"
   ],
